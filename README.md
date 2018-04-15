@@ -4,12 +4,6 @@
 
 
 
-## 进度
-
-- Stack
-- Queue
-
-
 ## 相关配置
 
 ### Jest
@@ -69,4 +63,10 @@ npm install babel-preset-dev --save-dev
 
 - Stack
 - Queue
+- PriorityQueue
+
+
+2018-4-15
+
+- LinkedList
 
